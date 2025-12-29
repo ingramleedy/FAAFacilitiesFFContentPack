@@ -55,5 +55,5 @@ Detailed instructions: [ForeFlight Content Packs Support](https://www.foreflight
 4. Restart ForeFlight.  
 5. On Maps view, select layer: Aero & Category → "FAA Districts" on left and "ARTCC/TRACON Overlays" on right.
 
-**Download:** [FAADistrictsFacilitiesFFContentPack.zip](FAAFacilitiesFFContentPack.zip?raw=true)  
+**Download:** [FAADistrictsFacilitiesFFContentPack.zip](https://github.com/ingramleedy/ColoradoMountainPassesFFContentPack/blob/main/FAAFacilitiesFFContentPack.zip?raw=true)  
 Note: Content packs require manual re-download for updates. Replace "yourusername" with your actual GitHub username.
