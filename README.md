@@ -63,7 +63,7 @@ Detailed instructions: [ForeFlight Content Packs Support](https://www.foreflight
 2. On iOS/iPadOS: Open in Safari → Downloads → Share → ForeFlight.  
 3. ForeFlight will unpack and install the pack.  
 4. Restart ForeFlight.  
-5. On Maps view, select layer: Aero & Category → "FAA Districts" on left and "ARTCC/TRACON Overlays" on right.
+5. On Maps view, select layer: Aero & Category → "FAA Facilities" on left and "ARTCC/TRACON Overlays" on right.
 
 **Download:** [FAADistrictsFacilitiesFFContentPack.zip](https://github.com/ingramleedy/FAAFacilitiesFFContentPack/blob/main/FAAFacilitiesFFContentPack.zip?raw=true)  
 Note: Content packs require manual re-download for updates. Replace "yourusername" with your actual GitHub username.
