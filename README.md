@@ -71,7 +71,7 @@ Note: Content packs require manual re-download for updates.
 
 ## Addendum: Syncing Content Packs via Cloud Storage (e.g., OneDrive)
 
-For users who want to easily manage and sync the Colorado Mountain Passes content pack across multiple devices, you can integrate a cloud storage service like Microsoft OneDrive with ForeFlight. This setup allows you to host the content pack .zip file in a shared folder, where it can automatically sync across your devices via OneDrive. Once integrated, new or updated .zip files placed in the designated folder will appear in ForeFlight's More > Downloads section for import. With ForeFlight's Automatic Content Packs Download setting (enabled by default in recent versions), packs can download automatically, and updates (e.g., replacing the .zip with a newer version) can be handled by re-importing the revised file.
+For users who want to easily manage and sync the FAA Districts & Facilities content pack across multiple devices, you can integrate a cloud storage service like Microsoft OneDrive with ForeFlight. This setup allows you to host the content pack .zip file in a shared folder, where it can automatically sync across your devices via OneDrive. Once integrated, new or updated .zip files placed in the designated folder will appear in ForeFlight's More > Downloads section for import. With ForeFlight's Automatic Content Packs Download setting (enabled by default in recent versions), packs can download automatically, and updates (e.g., replacing the .zip with a newer version) can be handled by re-importing the revised file.
 
 **Note:** This feature requires a ForeFlight Pro or higher subscription plan for Cloud Documents integration. Content packs do not auto-update in-place; you must replace the .zip file with an updated version (ideally including a version number in the optional manifest.json for tracking) and re-import it. However, the cloud sync ensures the latest .zip is available on all linked devices.
 
@@ -98,7 +98,7 @@ For users who want to easily manage and sync the Colorado Mountain Passes conten
 1. **Create the Folder:** In your linked OneDrive folder (e.g., "/ForeFlightDocs/"), create a subfolder named exactly **contentpack** (case-sensitive). This is the designated location for content pack .zip files.
    - Full path example: If your linked folder is "ForeFlightDocs", the path would be `/ForeFlightDocs/contentpack/`.
 
-2. **Place the .zip File:** Download the latest `ColoradoMountainPassesFFContentPack.zip` from this repository and upload it to the `contentpack` folder in OneDrive. The file will automatically sync across all your devices connected to OneDrive.
+2. **Place the .zip File:** Download the latest ` FAADistrictsFacilitiesFFContentPack.zip` from this repository and upload it to the `contentpack` folder in OneDrive. The file will automatically sync across all your devices connected to OneDrive.
 
 3. **Access in ForeFlight:**
    - Open ForeFlight on your iOS/iPadOS device.
