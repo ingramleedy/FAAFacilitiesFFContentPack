@@ -7,7 +7,17 @@ The content pack displays ARTCC sectors and TRACON boundaries as a custom map la
 ![FAA Sector US](/img/FF-FAA-Sector-US.png)
 ![FAA Sector FL](/img/FF-FAA-Sector-Florida.png)
 
+## Important Disclaimer
 
+**This content pack is an unofficial, community-created compilation.** The boundaries and data for ARTCC sectors, TRACON areas, and other facilities have been **cobbled together from various public sources**, including FAA publications, digital charts, third-party interpretations, and community contributions.  
+
+**These sources are unverified and may contain inaccuracies or outdated information.**  
+
+**Official FAA maps exist only for high-level ARTCC boundaries.** There are **no official FAA sector-level detail maps** publicly available for ARTCC low/high sectors or detailed TRACON boundaries.  
+
+This pack is provided **for educational, planning, and situational awareness purposes only**. It is **not for navigation** and should never be used as a substitute for official FAA charts, publications, or NOTAMs. Always cross-reference with current official sources (e.g., FAA Aeronautical Information Manual, sectional charts, and the Air Traffic Control Facilities Directory) and verify with ATC when needed.
+
+Use at your own risk.
 
 
 ## Content Overview
